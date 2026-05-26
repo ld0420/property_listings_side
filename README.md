@@ -1,8 +1,8 @@
 # Property Listings
 
 A Next.js app that displays SimplyRETS property listings on a map + list view,
-matching the provided Figma mockup. See [INSTRUCTIONS.md](./INSTRUCTIONS.md) for the
-original assignment and [AI_USAGE.md](./AI_USAGE.md) for the AI-tooling write-up.
+matching the provided Figma mockup. See [AI_USAGE.md](./AI_USAGE.md) for the
+AI-tooling write-up.
 
 ## Getting Started
 

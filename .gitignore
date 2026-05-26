@@ -21,6 +21,9 @@
 # personal notes (not part of the submission)
 DEEP_DIVE_PREP.md
 
+# assignment brief (not redistributed in the public repo)
+INSTRUCTIONS.md
+
 # debug
 npm-debug.log*
 yarn-debug.log*
